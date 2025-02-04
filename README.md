@@ -1,7 +1,7 @@
 # Sudoku Solver
 
 ## Overview
-Sudoku Solver is a WPF (Windows Presentation Foundation) application developed in C#. It allows users to input a Sudoku puzzle, verify its validity, and solve it automatically using a backtracking algorithm. The application highlights invalid and duplicate entries, providing a user-friendly experience for solving Sudoku puzzles.
+Sudoku Solver is a WPF (Windows Presentation Foundation) application developed in C#. It allows users to input a Sudoku puzzle, verify its validity, and solve it automatically using a backtracking algorithm. The application highlights invalid entries, providing a user-friendly experience for solving Sudoku puzzles.
 
 ## Features
 - **Grid-Based Input:** Users can input numbers directly into a 9x9 Sudoku grid.
