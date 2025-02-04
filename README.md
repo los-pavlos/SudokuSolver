@@ -32,7 +32,7 @@ Sudoku Solver is a WPF (Windows Presentation Foundation) application developed i
 2. Click **Solve** to attempt solving the puzzle.
 3. Click **Clear** to reset the grid.
 4. If invalid inputs exist, they will be highlighted in red.
-5. If duplicates are found, they will be highlighted in blue.
+5. Sudoku entry is highlighted in blue
 6. If a solution exists, it will be displayed in the grid.
 7. If no solution exists, a message box will notify the user.
 
